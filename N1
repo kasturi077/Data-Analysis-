@@ -1,0 +1,22 @@
+kasturi077
+│
+├── google-play-store-analysis
+│     ├── README.md
+│     ├── PlayStore_Analysis.ipynb
+│     ├── requirements.txt
+│     ├── images/
+│     └── dataset/
+│
+├── sql-practice-postgresql
+│     ├── joins.sql
+│     ├── ctes.sql
+│     ├── window_functions.sql
+│     ├── string_functions.sql
+│     └── README.md
+│
+├── python-data-analysis
+│     ├── numpy_practice.ipynb
+│     ├── pandas_practice.ipynb
+│     └── README.md
+│
+└── README.md (https://github.com/kasturi077)
